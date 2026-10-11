@@ -1,7 +1,5 @@
 "use client";
 
-export const dynamic = 'force-dynamic';
-
 import React, { useEffect, useState, use } from "react";
 import Link from "next/link";
 import { Project, fetchProjects, fetchProjectById } from "@/app/lib/api";
