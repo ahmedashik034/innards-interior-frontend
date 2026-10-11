@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useRef } from "react";
-import { ChevronLeft, ChevronRight, Linkedin, Mail } from "lucide-react";
+import { ChevronLeft, ChevronRight, Mail } from "lucide-react";
 
 interface TeamMember {
   id: number;
